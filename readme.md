@@ -5,3 +5,5 @@
 Para ejecutar el sistmena, debes poner:
 
 ```np install react```
+
+Sistema de registro 2
